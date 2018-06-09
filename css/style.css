@@ -1,0 +1,119 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style0 {
+  background-color: #a4fffc;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 1200px;
+  height: 472px;
+  flex-direction: column
+}
+.style6 {
+  margin-left: 101px;
+  margin-top: 14px;
+  width: 64px;
+  height: 63px
+}
+.style3,
+.style4 {
+  color: #000;
+  text-align: center;
+  font-family: Montserrat,serif;
+  font-size: 3.3125em;
+  font-weight: 500;
+  margin-left: 136px;
+  margin-top: 159px;
+  height: 43px
+}
+.style3 {
+  font-size: 2.75em;
+  margin-left: 481px;
+  margin-top: 62px;
+  height: 46px
+}
+.row2 {
+  display: flex;
+  margin-left: 113px;
+  margin-top: 152px;
+  width: 970px;
+  height: 229px;
+  align-items: stretch
+}
+.style1 {
+  background-color: #fff;
+  box-shadow: 0 0 19px 1px rgba(0,0,0,.39);
+  border-top-left-radius: 39px;
+  border-top-right-radius: 39px;
+  border-bottom-left-radius: 39px;
+  border-bottom-right-radius: 39px;
+  display: flex;
+  margin-left: 0;
+  width: 374px;
+  flex-direction: column;
+  justify-content: center
+}
+.style7 {
+  color: #000;
+  text-align: center;
+  font-family: Montserrat,serif;
+  font-size: 1.9375em;
+  font-weight: 500;
+  margin-left: 31px;
+  width: 291px
+}
+.style2 {
+  background-color: #fff;
+  box-shadow: 0 0 19px 1px rgba(0,0,0,.39);
+  border-top-left-radius: 39px;
+  border-top-right-radius: 39px;
+  border-bottom-left-radius: 39px;
+  border-bottom-right-radius: 39px;
+  display: flex;
+  margin-left: 223px;
+  width: 374px;
+  flex-direction: column
+}
+.style8 {
+  color: #000;
+  text-align: center;
+  font-family: Montserrat,serif;
+  font-size: 1.9375em;
+  font-weight: 500;
+  margin-left: 49px;
+  margin-top: 53px;
+  width: 291px
+}
+.row3 {
+  display: flex;
+  margin-left: 16px;
+  margin-top: 152px;
+  width: 1064px;
+  height: 449px
+}
+.style5 {
+  margin-left: 0;
+  width: 493px;
+  height: 100%;
+  align-self: stretch
+}
+.style9 {
+  color: #000;
+  font-family: Montserrat,serif;
+  font-size: 1.9375em;
+  font-weight: 500;
+  margin-left: 93px;
+  margin-top: 64px;
+  width: 479px
+}
+.style10 {
+  background-color: #000;
+  opacity: .68;
+  margin-left: 0;
+  margin-top: 36px;
+  width: 1200px;
+  height: 276px
+}
